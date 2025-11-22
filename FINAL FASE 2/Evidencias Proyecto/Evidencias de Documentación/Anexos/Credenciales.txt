@@ -1,3 +1,0 @@
-CREDENCIALES 
-Correo: admin@admin.com
-Contraseña: 1234
